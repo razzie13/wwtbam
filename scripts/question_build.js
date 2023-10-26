@@ -1,0 +1,1 @@
+console.log(prize_values[0]);
